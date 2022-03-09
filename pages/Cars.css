@@ -1,0 +1,194 @@
+.content-page {
+    display: flex;
+    align-items: flex-start;
+}
+
+.placse {
+    margin-left: -50px;
+    margin-top: 35px;
+}
+.first-class-mrp {
+    line-height: 52px;
+
+    background: #ffffff;
+    border-radius: 6px 6px 0px 0px;
+}
+.first-class {
+    display: flex;
+    align-items: flex-start;
+}
+.black-style {
+    max-width: 14.82px;
+    line-height: 14px;
+    margin-left: 22px;
+    margin-top: 15px;
+}
+.choice-auto {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 11px;
+    margin-left: 12px;
+
+    color: #293452;
+}
+.model-first {
+    max-width: 200px;
+    line-height: 32px;
+    margin-left: 42px;
+    margin-top: 17px;
+
+    background-color: #ffffff;
+    border: 1px solid rgba(41, 52, 82, 0.15);
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.model-second {
+    margin-left: 15px;
+    margin-top: 17px;
+}
+.second-class {
+    background-color: white;
+}
+.content-table {
+    margin-top: 39px;
+    margin-left: 300px;
+    width: auto;
+}
+.header-aboutes {
+    display: flex;
+    align-items: flex-start;
+}
+.aboutes-card {
+    background-color: #293452;
+    box-shadow: 0px 2px 20px rgba(97, 155, 208, 0.06);
+    border-radius: 6px;
+    height: 211px;
+    width: 251px;
+}
+
+.aboutes-word-first {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #ffffff;
+}
+.white-elem {
+    margin-left: 10px;
+    margin-top: 4px;
+}
+.css-hkwzf5 {
+    max-width: 251px;
+    max-height: 211px;
+    margin-left: -50px;
+    margin-top: 38px;
+}
+.vector-card {
+    margin-left: -17px;
+}
+.aboutes-word-second {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #ffffff;
+}
+.aboutes-word-third {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #ffffff;
+}
+.aboutes-element {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+
+    color: #5eb1ff;
+}
+.header-aboutes-second {
+    display: flex;
+    align-items: flex-start;
+}
+.black-one {
+    margin-top: 38px;
+    margin-left: 50px;
+}
+.white-second {
+    margin-left: 50px;
+    margin-top: 13px;
+}
+.table-one {
+    margin-top: 39px;
+    margin-left: 13px;
+}
+.big-page {
+    height: 136%;
+}
+.one-table {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 517p;
+    margin-top: 50px;
+}
+.cars-selection-table {
+    margin-top: -400px;
+}
+.ant-table-thead > tr > th {
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 500;
+    background: white;
+    border-bottom: 1px solid #f0f0f0;
+}
+.ant-table {
+    font-size: 14px;
+    margin-left: -100px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.ant-menu-inline.ant-menu-root .ant-menu-item,
+.ant-menu-inline.ant-menu-root .ant-menu-submenu-title {
+    margin-top: 25px;
+}
+.ant-layout-header {
+    padding: 0 300px;
+    margin-left: -100px;
+}
+.chat-orange {
+    display: flex;
+}
+.input-group-se {
+    display: flex;
+    align-items: justify;
+    margin-right: -700px;
+}
+.pagination-slide {
+    display: flex;
+    align-items: justify;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+.pagination-str {
+    font-family: Roboto;
+    font-size: 14px;
+    margin-right: 16px;
+    margin-top: 7px;
+    font-style: normal;
+    color: rgba(190, 194, 203, 1);
+}
+.ant-steps {
+    margin-left: -250px;
+    margin-top: 10px;
+}

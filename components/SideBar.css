@@ -1,0 +1,14 @@
+.ant-layout-sider-children {
+    width: 100px;
+    height: 1000px;
+}
+.logo-brt {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.logo-brm {
+    margin-left: 18px;
+}
+.ant-layout-sider {
+    background: none;
+}
